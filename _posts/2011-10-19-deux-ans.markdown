@@ -1,0 +1,28 @@
+---
+layout: post
+title: "deux ans"
+date: "2011-10-19"
+type: post
+published: true
+status: publish
+---
+
+Deux ans ont passé depuis mon dernier post sur ce blog.
+
+Deux ans nécessaires à la construction de [cette maison](http://maisonpassive.choppin.be/ "cette maison").
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/10/SAM_1852-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/10/SAM_1852.jpg)
+
+Une fois le gros œuvre terminé, l’isolation en place, et les plâtres juste au début de l’hiver, il a encore fallu mettre en route les impétrants : eau, électricité, chauffage solaire de l’eau sanitaire, récupération d’eau de pluie. Et tous les jours de beau temps ont été consacrés au bardage et à la construction des terrasses. Et à attendre la venu du terrassier pour qu’il aménage les abords et creuse les lagunes. Je l’attends encore.
+
+Ce mardi est décisif, puisque je reçois le technicien auquel j’ai demandé [le test d’infiltrométrie](http://fr.wikipedia.org/wiki/Test_d'infiltrom%C3%A9trie "infiltrométrie"). Étape décisive pour homologue ma construction en maison passive.
+
+L’architecte et moi crions victoire, le niveau fatidique est atteint. 0,52 pour un maximum de 0,60 volume/h à 50Pa.
+
+Deux ans, c’est beaucoup d’efforts, mais au regard du résultat c’est bon placement. L’autoconstruction – je préfère dire construction autonome - est un véritable chemin d’évolution personnelle. Je pensais partir à Compostelle mais finalement, je pense que j’y suis déjà arrivé.
+
+Il me resta d’autant plus de chemins ouverts à parcourir. Parfois machette à la main, parfois en le laissant porter, mais toujours en demeurant dans l’instant présent, présent à moi, présent au monde.
+
+Dans l’essentiel de la contemplation.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/10/gnome-224x300.png "gnome")]({{ site.url }}{{ site.baseurl }}/images/2011/10/gnome.png)

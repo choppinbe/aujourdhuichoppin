@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Colombo"
+date: "2017-02-05"
+type: post
+published: true
+status: publish
+---
+
+Débarqués de Madurai en fin d’après-midi, nous avons skipé la capitale (heu non, la capitale c’est  [Sri Jayawardenapura](https://fr.wikipedia.org/wiki/Sri_Jayawardenapura) (Kotte), située à 15 km au sud-est de Colombo).
+
+Donc en arrivant directement à notre Guest house, nous avons évité la grande ville. Visite obligatoire en revanche ce vendredi, parce que le lendemain 4 février, c’est férié pour cause de « National day », fête nationale de l’indépendance. Donc nous prenons le train à 9h24 à la gare de Negombo (enfin, départ vers 9h40 ? ) et 1h35 plus tard nous débarquons 40 km plus loin.
+
+Charmante gare typique des régions chaudes, vestige probable d’une autre administration, mais entretenue avec soin, elle est tout à fait adaptée à un trafic assez intense.
+
+En quittant les bâtiments nous nous trouvons dans une circulation à l’arrêt, un embouteillage impressionnant causé par un feu rouge qui ne fait que son travail et qui reçoit le respect qu’il mérite. Nous ne sommes pas en Inde, ici. On roule à gauche, he bien on reste sur la bande de gauche, je crois que les policiers qui règlementent la circulation ne comprendraient pas une autre attitude. L’utilisation du Klaxon est nettement plus mesurée et réservée aux situations d’urgence. Les automobilistes s’arrêtent pour laisser les piétons traverser aux passages zébrés !
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2017/02/DSC00706-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2017/02/DSC00706.jpg)
+
+Le quartier du Fort abrite d’anciens édifices des styles successifs : l’hôpital hollandais, les immeubles des grandes sociétés (Lloyd, Imperial Bank Of Ceylan devenue State Bank of Sri Lanka, Life Insurance Co), héritage de la colonisation anglaise, et plus récent, le World Trade Center (deux immeubles de 30 ou 40 étages, bardés de métal et d’acier comme à Hong Kong). C’est « Lunch Time », les employés sortent prendre leur pause, très smart, pantalon noir chemise blanche, chaussures italiennes, vêtements de marque, les femmes en tenues modernes, certaines (sans doute employées à la réception), en sari.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2017/02/DSC00731-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2017/02/DSC00731.jpg)
+
+Le retour à Négombo se fait de la même façon. Nous nous retrouvons dans un paysage qui nous déstabilise. Même en tenant compte du fait que nous sommes dans une zone « touristique », l’aspect des rues, des véhicules, des maisons, est soigné, propre, pimpant, moderne. Par certains côtés on se croirait au Japon dans un quartier calme. Même les fils électriques aériens nous le rappellent. Le Japon a d’ailleurs un pied dans la place : voitures Toyota, Datsun, Honda (Hybrid), Suzuki…)
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2017/02/DSC00724-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2017/02/DSC00724.jpg)
+
+Différence fondamentale avec le pays du Soleil Levant, les innombrables chapelles (je rappelle que nous sommes dans un quartier catholique ! mais nous verrons que dans les quartiers bouddhistes, c’est du pareil au même) : statues habillées de manteaux rutilants, lumières colorées clignotant dès la tombée du jour (ou même avant), cérémonies et psalmodies ininterrompues à l’église saint Sébastien toute proche. Et pas de vaches dans les rues. A peine quelques chiens  qui se la coulent douce et semblent bien nourris.

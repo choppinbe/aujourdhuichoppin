@@ -1,0 +1,36 @@
+---
+layout: post
+title: "AGUACATE"
+date: "2018-02-22"
+type: post
+published: true
+status: publish
+---
+
+Après les tombeaux hypogées, il nous reste un site à visiter, de tombeaux aussi, mais qui ont été placés sur le sommet d’une crête voisine, l’Aguacate, à 2000 mètres d’altitude. Je ne commenterai pas le fait que les indiens aient choisi de monter les restes de leurs ancêtres à cette hauteur, après tout, ils ont l’habitude de grimper, et leurs descendants aussi, quand je vois les cultures de café grimper quasi à la verticale jusqu’en haut des pentes.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180221_110110-225x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180221_110110.jpg)
+
+Nous partons donc comme nous l’a conseillé lonely planet, de notre auberge de la Portada, à 1700 m d’altitude pour une distance estimée à 2 km. Avec 300 m de dénivelé, ça devrait faire une heure et demie à deux heures.
+
+Mais les Andes réservent des surprises. Entre San Andrès de Pisimbala et l’Aguacate, il faut franchir deux cours d’eau, et donc descendre et remonter à chaque fois près de 200 m. Au total, il y a près de 800 m de dénivelé et un bon 3 km de distance….
+
+Le chemin passe entre les cultures, parfois se perd dans des espaces de pacage pour chevaux et vaches, remonte par des passages de roche usée (attention au gravier qui est très glissant !) Les campesinos passent par là pour rejoindre leurs « fincas », les petits bouts de terrains qu’ils cultivent, au milieu des quels ils habitent des constructions de torchis couvertes de tôle. On distingue les plus prospères au fait qu’ils ont ajouté à leur maison un tunnel de plastique dont l’utilité se révèle quand on regarde à l’intérieur : ce sont des séchoirs à café. Le café est traité ici par la méthode sèche. Pas de dépulpeuse gourmande en eau. Les cerises sont séchées au soleil, puis frottées pour dégager les grains de café vert qui est à nouveau séché dans les tunnels.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180220_122152-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180220_122152.jpg)
+
+Finalement après 3 heures ½ de route, nous atteignons la crête. Panorama splendide, avec vue sur les deux faces de la montagne. D’un côté, la vallée de San Andrès, et de l’autre, la petite ville d’Inza. Dommage que les lointains soient brumeux, la vue porte mal et nous ne connaissons pas assez la géographie des lieux pour identifier les montagnes. Les cordillères centrale et orientale se touchent presque, la vue doit porter à plusieurs dizaines de kilomètres par temps clair, de quoi identifier l’ensemble des départements de la Cauca et de Huila.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180221_083344-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180221_083344.jpg)
+
+Le site archéologique est plutôt décevant. Une vingtaine d’excavations montrent l‘architecture des tombes, avec un puits profond et une salle taillée dans la roche tendre.  Mais aucun décor, aucune explication, les tombes ont été vidées de leur contenu et le temps a effacé les peintures qui les décoraient. Une seule est protégée, mais en l’absence de ‘vigilante’, on ne peut pas y pénétrer.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180221_083641-225x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180221_083641.jpg)
+
+Nous redescendons donc vers le musée par la pente réputée si difficile. Et nous nous rendons compte qu’il y a là un dénivelé de 500 mètres, c’est sûr, mais pas de ruisseau à franchir. Le chemin est extrêmement abrupt, mais beaucoup de passages sont en déclivité légère bien marqués à travers l’herbe. Les zigzags permettent de ne pas trop risquer en descendant, et à la montée, ce coté doit être dur, mais pas réellement difficile. Après une heure et demie, nous nous asseyons devant une salade de fruit qui nous permet de reprendre un peu nos esprits.
+
+Pour rejoindre notre gite, nous attendons le passage d’une camionnette. Il en remonte plusieurs chaque heure, et comme c’est la sortie des écoles, nous sommes pris en charge par une jeep où s’entassent une vingtaine d’enfants rentrant de Inza. Je me tiens à l’arrière, sur la marche et accroché à l’armature de la toile. Vu la vitesse que parvient à atteindre le véhicule, il y a peu de risques à voyager comme ça !
+
+Rando finalement assez éprouvante, mais exceptionnelle. À refaire dans l’autre sens par temps clair, avis aux amateurs.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180221_081449-225x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180221_081449.jpg)

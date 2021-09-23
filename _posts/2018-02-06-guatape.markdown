@@ -1,0 +1,38 @@
+---
+layout: post
+title: "GUATAPE"
+date: "2018-02-06"
+type: post
+published: true
+status: publish
+---
+
+Pour aller visiter ce site situé à 80 km de Medellin, nous avons pris un tour en bus. Guide en espagnol par Laura avec traduction en anglais par Rafael, un jeune vénézuélien qui tente de se faire une place au soleil.
+
+Nous faisons une première pause a Marinilla – non pas Marinella de Tino Rossi, mais Marinija, une paisible petite bourgade qui a conservé jalousement son architecture néo coloniale. Le village s’orne d’une place des martyrs, parce qu’il a été celui qui a fourni le plus gros contingent de soldats lors de la campagne de lutte contre les espagnols pour l’indépendance.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180205_101805-225x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180205_101805.jpg)
+
+Puis nous poursuivons juqu’à la localité de El peñol. Lors de la création de l’immense lac artificiel de l’embalse de Guatapé, le petit village devait se voir recouvrir par les eaux. La epm, entreprise nationale qui gère l’énergie en Colombie, était assez réticente à indemniser les habitants et surtout à reconstruire une ville avec église, écoles, centre de santé, etc. De la longue lutte qui s’en est suivie, les paysas sont sortis vainqueurs : El nuevo peñol ne ressemble pas à l’ancien mais a permis de recaser la population chassée de son ancien territoire.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180205_123229-225x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180205_123229.jpg)
+
+A El peñol s’érige une curiosité géographique : un monolithe de 200 m de hauteur, escaladé pour la première fois en 1954, et transformé depuis en attraction touristique munie d’un escalier de 450 marches pour monter et 700 pour redescendre (il y a deux chemins) (+/-, je ne me suis pas hasardé à aller vérifier !
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180205_114523-225x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180205_114523.jpg)
+
+De là nous allons à Guatapé, petit village à la bonne altitude, oui qu’il est au bord de l’eau, où je me fais servir une « bandeja paysa », la spécialité culinaire locale. Qui emporte ma conviction : la cuisine n’est pas une spécialité remarquable en Colombie.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180205_133000-225x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180205_133000.jpg)
+
+Guatapé est remarquable pour une autre chose : les zocaleros. Qu’est-ce que c’est cette bête ? Tout bêtement les décorations dont les habitants se sont ingéniés à décorer le bas de leurs murs, là où en Flandre on applique une bonne couche de goudron nori, ici, depuis 1909 et l’arrivée du premier sac de ciment au village, ils ont décoré de dessins en relief sculptés en ciment et peints, repeints avec minutie pour identifier chacun sa maison. Le résultat est renversant.
+
+ 
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180205_155955-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180205_155955.jpg)
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180205_153617-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180205_153617.jpg)
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180205_154033-225x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180205_154033.jpg)
+
+Une balade en bateau sur le lac, puis de nouveau 80 km d’autoroute et nous voilà de retour à notre gite pour une nuit assez bien méritée.

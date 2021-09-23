@@ -1,0 +1,14 @@
+---
+layout: post
+title: "escale"
+date: "2016-01-16"
+type: post
+published: true
+status: publish
+---
+
+Abou Dabi. Que faire d'autre ici en dehors d'attendre le prochain vol. En transit, nous sommes des centaines - beaucoup de centaines - a nous regrouper autour des portes ou s'affichent les destinations les plus diverses.[![image]({{ site.url }}{{ site.baseurl }}/images/2016/01/image-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2016/01/image.jpg)
+
+[![image]({{ site.url }}{{ site.baseurl }}/images/2016/01/image-1-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2016/01/image-1.jpg)
+
+[![image]({{ site.url }}{{ site.baseurl }}/images/2016/01/image-2-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2016/01/image-2.jpg) Patience, notre tour va venir. Dans deux heures, trois au plus tard, nous serons de nouveau en vol. En attendant, comme il est 7heures du matin ( mais à mon horloge biologique, c'est 4 ) nous profitons de l'aubaine: un vrai expresso un lavazza aussi rouge que le fond de la tasse est noir.

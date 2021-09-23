@@ -1,0 +1,18 @@
+---
+layout: post
+title: "après la pluie, le beau temps"
+date: "2015-02-02"
+type: post
+published: true
+status: publish
+---
+
+Grand soleil aujourd’hui … sur un fond de l’air plutôt frais. Nous réunissons tous nos vêtements pour tenter de tenir le coup par 11 ° et nous partons pour Fes. Sans histoire nous arrivons au centre de la ville nouvelle. D’où deux petits taxis (maximum 3 places chacun) nous conduisent à la médina en traversant les « espaces verts », le no mans land qui sépare les nouveau quartiers des villes du 8ème et du 14 ème siècle. [![P1020413]({{ site.url }}{{ site.baseurl }}/images/2015/02/P1020413-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2015/02/P1020413.jpg) Et là, comment commencer ? nous n’avons pas de boussole et la muraille qui entoure cette concentration de deux cent mille habitants mesure 19 km. Heureusement un boutiquier nous trouve un guide (oui, bien sur, tout service se monnaye) mais nous avons la chance de tomber sur quelqu’un de compétent (à mon sens) qui comprend notre but, qui nous fait admirer les merveilles restaurées par l’Unesco ou le peuple américain, mais qui nous conduit à travers les dédales de ruelles pittoresques, dans les quartiers que nous voulions voir : tannerie et tisserands. Pas de marchands de couleurs, certaines parties de la ville sont en restauration pendant la basse saison, d’autres sont fermées parce que dimanche (eh oui, c’est possible d’être immobilisés ici par la pause dominicale !) [![P1030294]({{ site.url }}{{ site.baseurl }}/images/2015/02/P1030294-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2015/02/P1030294.jpg)
+
+[![P1030300]({{ site.url }}{{ site.baseurl }}/images/2015/02/P1030300-225x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2015/02/P1030300.jpg)
+
+[![P1030274]({{ site.url }}{{ site.baseurl }}/images/2015/02/P1030274-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2015/02/P1030274.jpg) Le coup d’œil sera rapide, mais intéressant : deux heures nous suffisent pour être satisfaits de l’aperçu. Et partout nous sommes accueillis avec bonne humeur et respect. Si on achète, tant mieux, si on n’achète pas, tant pis, la visite est comprise dans l’accueil. [![P1030323]({{ site.url }}{{ site.baseurl }}/images/2015/02/P1030323-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2015/02/P1030323.jpg)
+
+[![P1020458]({{ site.url }}{{ site.baseurl }}/images/2015/02/P1020458-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2015/02/P1020458.jpg) Retour au centre ville où il nous est impossible de trouver un snack au soleil. Et en guise de légumes, notre tajine s’orne de frites ! mais la bonne humeur et toujours là. Après avoir cherché un bon moment la voiture que nous avons laissée dans la rue Omar el Moktar - personne ne connait une rue par son nom - , redépart pour rentrer chez nous. Et c’est là que les choses se compliquent : au lieu de trouver la direction en sens inverse de l’arrivée, nous avons « la chance » de visiter encore le palais royal, le cimetière juif, les quartiers périphériques où les marchés et les activités de détente du dimanche occupent l’espace public, jusqu’au milieu de la rue. [![P1020469]({{ site.url }}{{ site.baseurl }}/images/2015/02/P1020469-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2015/02/P1020469.jpg)
+
+[![P1020476]({{ site.url }}{{ site.baseurl }}/images/2015/02/P1020476-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2015/02/P1020476.jpg) Finalement remis sur la bonne voie par un chauffeur de grand taxi, nous parvenons à Meknes, où nous cherchons de nouveau notre route. Le gps marocain, s’il fonctionne assez correctement, a ceci de caractéristique qu’il est encore plus imprécis et plus imprévisible que l’américain.

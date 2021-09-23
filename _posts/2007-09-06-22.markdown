@@ -1,0 +1,38 @@
+---
+layout: post
+title: "le laurier rose"
+date: "2007-09-06"
+type: post
+published: true
+status: publish
+---
+
+j'ai dans mon jardin des anémones du japon
+
+[![AJ07]({{ site.url }}{{ site.baseurl }}/images/2007/09/img_0095.thumbnail.JPG)]({{ site.url }}{{ site.baseurl }}/images/2007/09/img_0095.JPG "AJ07")
+
+dont les plants viennent d'Hourdax
+
+j'ai aussi un laurier rose qui fleurit de façon régulière, moins quand il manque de soileil et de chaleur, mais quand meme.
+
+ 
+
+![LR07]({{ site.url }}{{ site.baseurl }}/images/2007/09/img_0092.thumbnail.JPG)
+
+  
+
+il s'agit d'une bouture de celui qui végétait à Auch pres de la cuisine, qui est arrivé en Belgique où il a prospéré,
+
+![LR03]({{ site.url }}{{ site.baseurl }}/images/2007/09/1b94751b-f3cb-11d7-ba69-003048230e22-3.thumbnail.jpg)
+
+j'ai du le receper deux fois mais il continue à porter quelques fleurs  il est depuis longtemps à auch, témoin le dessin d'éloi en '98
+
+[![HX98]({{ site.url }}{{ site.baseurl }}/images/2007/09/hourdaxeloipp.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2007/09/hourdaxeloipp.jpg "HX98")
+
+et la photo ancienne (il y a encore le palmier devant le porche) où il trône en bonne place au coin du mur de la cuisine
+
+ [![hourdax86.jpg]({{ site.url }}{{ site.baseurl }}/images/2007/09/hourdax86.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2007/08/hourdax86.jpg "hourdax86.jpg")
+
+mais je ne me souviens pas qu'il était là quand j'habitais Hourdax.
+
+qui saurai me raconter quand il est arrivé, et d'où il vient?

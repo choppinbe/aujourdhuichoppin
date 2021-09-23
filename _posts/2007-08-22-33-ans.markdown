@@ -1,0 +1,18 @@
+---
+layout: post
+title: "33 ans"
+date: "2007-08-22"
+type: post
+published: true
+status: publish
+---
+
+Aujourd’hui marque le 33ième anniversaire de notre mariage à Dottignies.
+
+[![mariageChM]({{ site.url }}{{ site.baseurl }}/images/2007/08/mariage.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2007/08/mariage.jpg "mariageChM") Je suppose que mes frères et sœurs se souviennent de leur tenue de ce jour, puisque nous nous sommes mariés « en long ». A propos, François, tu as toujours ta médaille militaire ? Tu l’as encore portée depuis ?
+
+Je ne sais pas si la cérémonie elle-même a changé quelque chose à ma vie. Je ne suis pas sûr que je dirais encore les mêmes choses, que je choisirais les mêmes textes, les mêmes symboles. La compréhension que j’ai aujourd’hui de notre engagement a évolué. Dans le sens d’une plus grande profondeur, je crois. Et d’une meilleure connaissance de ce qui est de ma responsabilité, et de ce qui ne l’est pas.
+
+Il me reste pourtant, à travers ces années l’idée que cet engagement a été le fondement de mon évolution personnelle, et même si je ne peux pas parler pour elle, Christine a de son côté beaucoup changé aussi. Je ne veux pas dire que notre promesse du 22 août 74 n’avait pas de valeur, qu’elle n’a servi à rien et qu’elle ne signifie rien. Au contraire, c’est le premier pas sur un chemin qui est loin d’être fini : mieux nous nous connaissons, plus nous échangeons, plus nous expérimentons, mieux nous nous sentons être, libres, plus notre engagement a du sens. Avec la certitude qu’il y a quelque chose de plus grand que le quotidien, cette notion de l’immanence, le numineux, à condition que ce ne soit pas dans le sens de miraculeux ou magique, mais plutôt comme la dimension qui me met en relation avec mon être tout entier.
+
+Et puis il y avait l’aspect festif, familial, l’étrange sentiment de me trouver plongé dans cette immense tribu des Fockedey et Gekiere, moi qui n’avais jamais vu mes cousins éloignés qu’une fois un soir d’été, durant toute mon enfance.

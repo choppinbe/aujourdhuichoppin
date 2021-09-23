@@ -1,0 +1,10 @@
+---
+layout: post
+title: "pets"
+date: "2016-02-07"
+type: post
+published: true
+status: publish
+---
+
+[![DSC_0473]({{ site.url }}{{ site.baseurl }}/images/2016/02/DSC_0473-216x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2016/02/DSC_0473.jpg)C’est bien comme ça qu’on appelle les animaux de compagnie en anglais ? Ici à Periyar, peu de chien pas de chats. La même chose à Kotayam. À Varkala quelques chiens en bonne santé. Les chiens quand on en voit sont beaux et le poil luisant, ils ont visiblement un maitre qui les entretient. Ce n’est pas le cas des chats. Mais il y a d’autres animaux de compagnie en inde : les vaches. Ce ne sont pas les vaches à lait qu’on voit de temps en temps dans les « campagnes ». il s’agit d’une bête beaucoup plus petite, avec de grandes cornes quand elle est adulte, assez efflanquée, qui doit être un peu nourrie mais sans plus, elle n’a qu’à se débrouiller pour trouver de quoi bouffer, et elle se promène librement dans les rues. C’est aussi original que nos nouveaux animaux de compagnie, rat, boa, crocodile et tout le reste. Et ça a l’avantage de ne pas être dangereux : une de ces vaches doit rarement dépasser les 100 kg à l’age adulte.

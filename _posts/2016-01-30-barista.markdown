@@ -1,0 +1,10 @@
+---
+layout: post
+title: "barista"
+date: "2016-01-30"
+type: post
+published: true
+status: publish
+---
+
+[![DSC_0239]({{ site.url }}{{ site.baseurl }}/images/2016/01/DSC_0239-300x182.jpg)]({{ site.url }}{{ site.baseurl }}/images/2016/01/DSC_0239.jpg) Si on se fie à la réputation que les anglais ont fait aux provinces de l’Empire, on pourrait croire que l’Inde produit particulièrement cette poussière noire ensachée en jaune sous l’appellation de Lipton tea. J’ai découvert beaucoup d’autres choses. Pas en thé, parce que ce n’est pas ma tasse diront ceux qui me connaissent. Si je fais la fine bouche pour les saveurs exaltantes du macha japonais, je ne vais pas faire grand cas d’un simple Darjeeling. Par contre on trouve de très honnêtes cafés dans pratiquement tous les restaus, de diverses fabrications, depuis les cafés en poudre (comprenez nescafé soluble) que je laisse volontiers à ceux qui le goutent, aux cafés bouillis à la turque (les népalais font aussi bouillir des la poudre pour leur boissons chaude ?), et à tous les expresso dont l’Italie a le secret, depuis le ristreto jusqu’au café latte, en passant pas l’américano et en terminant par le capuccino et toutes ses dérives. Fins négociants, les indiens u leurs homologues étrangers (népalais ou malais) se sont bien aperçu de la puissance persuasive des machines à pression sur la consommation des touristes en café. Et on trouve donc maintenant des services qui pour être originaux dans leur présentation, sont assez convaincants au niveau des qualités organoleptique. Il y a ici de la place pour les bons baristas.

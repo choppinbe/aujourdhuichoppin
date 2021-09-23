@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Bientot 2017"
+date: "2016-12-25"
+type: post
+published: true
+status: publish
+---
+
+Avec l'hiver qui approche, les tropiques m'appellent. Je raconterai à ceux qui me suivent et que ça peut intéresser les nouvelles péripéties d'un backpacker inconditionnel du soleil et de la découverte. [![backpacker]({{ site.url }}{{ site.baseurl }}/images/2016/12/backpacker.png)]({{ site.url }}{{ site.baseurl }}/images/2016/12/backpacker.png) Rendez-vous dès janvier à Chennai, Pondichéry, Colombo, etc

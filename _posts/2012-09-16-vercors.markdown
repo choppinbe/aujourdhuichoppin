@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Vercors"
+date: "2012-09-16"
+type: post
+published: true
+status: publish
+---
+
+La semaine dernière nous sommes montés sur le grand Veymont. Pour ceux à qui ça ne dit rien, c’est « le » sommet du Vercors, celui qu’on peut atteindre en marchant. Parceque l’escalade, c’est pas mon fort.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/09/P9060760a1.jpg "grand veymont !")]({{ site.url }}{{ site.baseurl }}/images/2012/09/P9060760a1.jpg)
+
+Mais depuis plus de six mois, je randonne avec quelques personnes entrainées par le [guide nature](http://www.sicerfontaine.be/guidenature.html) du [syndicat d’initiative de Cerfontaine](www.sicerfontaine.be), et de 15 km en 15 kilomètres, nous avons déjà vu pas mal de pays dans l’entre Sambre et Meuse.
+
+Aussi quand la proposition nous a été faite de randonner en autonomie (ho, doucement, seulement trois jours, mais sans ânes), nous avons sauté à pieds joints pour voir ce que c’est.
+
+Faisable, du point de vue physique, surtout quand on s’est donné un bon entrainement et qu’on a déjà quelques centaines de mètres de dénivelé dans les pattes, sac au dos.
+
+Trois jours dans le vercors, ça veut quand même dire qu’on doit se charger de l’eau. Il y a quelques sources, mais en fin d’été, faut pas trop compter dessus.
+
+Ajouter la tente pour bivouaquer, un peu de bouffe quand même, même lyophilisée, et on arrive vite à 15 kilos sur le dos.
+
+Il y a eu quelques « crupets » « casse-pattes » qui m’ont paru bien longs. Mais dans l’ensemble, les 2300 et des mètres du grand Veymont, c’est encore de la promenade. Il y en a qui en font le tour à cheval ou à VTT. Mais je suis parti à pied, et j’ai pu monter dessus.
+
+Pour être beau, c’est beau ! Comme une vrai carte postale. Le genre de paysage qu’on n’oublie pas, même si on n’est pas venu particulièrement pour ça, ça frappe.
+
+Sans compter que jusqu’à 1800 mètres, il y a des alpages, des bêtes à l’estive, et donc aussi des bergers avec leurs patous.
+
+Bien sur, il y a aussi les bouquetins, familiers, les marmottes, discrètes, et les renards, voleurs et gourmands – surtout celui qui est parti avec mon dernier morceau de pain, le reste de tome et même trois paquets de nouilles chinoises que je transportais pour mon dernier diner en altitude. Il a fallu faire sans !
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/09/P9050750a.jpg "bouquetin!")]({{ site.url }}{{ site.baseurl }}/images/2012/09/P9050750a.jpg)
+
+Il y a les vautours, les corbeaux, les aigles, tout ce qui vole au-dessus de vous alors que vous vous trainez sur les sentiers, ou à coté.
+
+Il y a, encore plus frappant que les bergers, la carrière romaine : les pierres des temples romains de Die, dans la vallée, viennent d’un coin du Vercors à plus de 1500 mètres d’altitude.  Difficile à croire, pourtant il reste sur place une colonne brisée qui n’a pas été descendue dans la vallée. Et pas de blague, a cette époque là, il n’avaient ni gortex, ni nylon, ni chaussure de rando. Par contre ils portaient la galea et les caligulae, scutum et glaive, une couverture pour tout fourniment, avec une outre en peau de chèvre.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/09/P9050743a.jpg "OLYMPUS DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2012/09/P9050743a.jpg)
+
+Il y a aussi, omniprésent, le souvenir du Maquis ou près de quatre mille jeunes réfractaires et résistants se sont fait éliminer en 44.
+
+Mais plus encore, le vie rude de ces montagnards me frappe : un des endroits les plus froids de France en hiver, et qui pourtant donne l’impression d’une grande douceur de vivre.

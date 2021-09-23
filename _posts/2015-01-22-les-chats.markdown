@@ -1,0 +1,10 @@
+---
+layout: post
+title: "les chats"
+date: "2015-01-22"
+type: post
+published: true
+status: publish
+---
+
+Il y a peu d’animaux domestiques ici en ville. Quelques ânes et mules pour les carrioles tractées, qui n’ont pas encore été remplacées par les triporteurs Boxer dont je crois savoir que la distribution est subventionnée pour favoriser les petits commerces. Très peu de chiens. Nous en avions rencontré l’an dernier près du désert, en meutes sauvages, mais ici je crois en avoir vu deux. Le « Kelb » n’est pas apprécié comme animal domestique. Par contre, ceux que nous rencontrons en abondance, ce sont les chats. [![chats]({{ site.url }}{{ site.baseurl }}/images/2015/01/chats-300x169.jpg)]({{ site.url }}{{ site.baseurl }}/images/2015/01/chats.jpg) Toute la journée au soleil, dans une activité toute féline, le sommeil, ils se prélassent à tous les coins de rue, mais ne dorment que d’un œil. Si on tente de les approcher au delà de leur limite de sécurité, ils se déplacent et se dissimulent habilement. Par rapport aux nôtres ces chats ont des yeux en amande, parfois fardés de noir. Le pelage peut prendre toutes sorte de couleurs, du blanc au noir, en passant par le roux et le tigré, et tous les mélanges sont permis. Quelques gros matous se reconnaissent à leur face plus large, leur poil négligé. Les femelles sont plus graciles. Mais tous les chats ici ont de longues pattes, et la majorité sont jeunes. A vrai dire, je ne crois pas qu’ils soient nourris et ceux qui survivent sont donc ceux qui ont réussi à se nourrir, et à résister aux agressions des prédateurs, à la circulation automobile et je suppose à la chasse dont ils sont occasionnellement la cible sans doute. Finalement, une vie de chat, ce n’est surement pas plus facile qu’une autre. C’est une lutte constante.

@@ -1,0 +1,24 @@
+---
+layout: post
+title: "P.U."
+date: "2009-01-12"
+type: post
+published: true
+status: publish
+---
+
+[]({{ site.url }}{{ site.baseurl }}/images/2009/01/plan5-1.jpg "plan1")[]({{ site.url }}{{ site.baseurl }}/images/2009/01/plan5-1.jpg "plan1")[]({{ site.url }}{{ site.baseurl }}/images/2009/01/plan5-1.jpg "plan1")[]({{ site.url }}{{ site.baseurl }}/images/2009/01/plan5-2.jpg "plan2")[Comme permis d'urbanisme.]({{ site.url }}{{ site.baseurl }}/images/2009/01/plan5-1.jpg "plan1")
+
+Est-ce une spécialité belge, je ne sais pas trop (et je ne le crois pas, d'ailleurs, même si les noms et les procédures diffèrent). Mais actuellement, c'est le sésame obligatoire pour obtenir la possibilité de toucher à un bâtiment ancien ou nouveau.
+
+Les réglementations s'accumulent, les contraintes se multiplient, pas toutes gratuites. par gratuite, je veux dire apparemment inutiles. parce que sur le plan pécunier, rien n'est gratuit.
+
+Le dossier permet, sous la responsabilité d'un architecte, de définir comment une construction nouvelle pourra s'intégrer hamonieusement dans l'environnement auquel on la destine.
+
+C'est ainsi que je suis allé ce matin du 12/01/2009, déposer au service de l'urbanisme de la commune doint dépend le domaine de loisir de Revleumont, une pile de formulaires accompagnée de 8 exemplaire des plans de notre future construction.
+
+[]({{ site.url }}{{ site.baseurl }}/images/2009/01/plan5-1.jpg "plan1")[![plan2]({{ site.url }}{{ site.baseurl }}/images/2009/01/plan5-2.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2009/01/plan5-2.jpg "plan2") et voila à quoi ça ressemble (en partie).
+
+Même s'il ne s'agit que d'un pas dans la réalisation de [ma maison de vacances passive](http://maisonpassive.choppin.be/ "ma maison de vacances passive"), c'est pour moi un pas capital: le rêve devient un tout petit peu réalité.
+
+Un rêve qui devient réalité, n'est-ce pas là l'essentiel?

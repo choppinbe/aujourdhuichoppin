@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Le temple"
+date: "2017-01-30"
+type: post
+published: true
+status: publish
+---
+
+[]({{ site.url }}{{ site.baseurl }}/images/2017/01/IMG_20170129_165025.jpg)Madurai est connue universellement pour son temple de Meenakshir, une immense construction commencée il y a plusieurs milliers d’années et toujours en cours grâce à la dévotion des fidèles pour la déesse aux trois seins (rassurez-vous, lors de son mariage avec Shiva, Meenakshir - Parvati perdra cet attribut phantasmatique)
+
+![]({{ site.url }}{{ site.baseurl }}/images/2017/01/IMG_20170129_165025-169x300.jpg)
+
+Des records, ce temple en bat plusieurs : 40 hectares, 30.000 statues, 1000 colonnes (même s’il en manque 15 « qui ont servi à autre chose ») dans le mandapam, salle de cérémonie (ou de danse ?) reconvertie en musée ou en bazar pour les inévitables marchands du temple. Lieu de pèlerinage, sacré pour l’Inde du Sud, qui concurrence le Taj Mahal de l’Inde du Nord, joyau de l’art dravidien, le Meenakshir réunit des foules, pratiquants et touristes.
+
+A part cela, peu de choses dans cette ville d’un million et demi d’habitants, juste l’Inde « éternelle », avec ses marchands, ses rickshaws, ses pauvres et ses riches, ses travaux inachevés, la saleté des rues qui disparait le matin quand passent les éboueurs, mais se retrouve toujours nouvelle à la fin de la journée.
+
+Une ambiance de ferveur religieuse, mais pas d’extrémisme pour autant, baigne les heures et les jours de la cité. Musulmans rarissimes, chrétiens remarquables par leurs églises pourvues de cloches sonores ( !), la presque totalité des gens ici, sont des croyants, ils ne badinent pas avec leur religion, même si leur tolérance leur permet d’accepter que des touristes indifférents visitent les temples – mais pas les lieus de culte proprement dit : certaines parties du temple sont interdites au non indous.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2017/01/IMG_20170129_102326-169x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2017/01/IMG_20170129_102326.jpg)
+
+Tout autour de ce monument, et même à l’intérieur, gravitent des nuées de petits marchands : vendeurs d’offrandes, tailleurs pour respecter les consignes d’habillement, marchands d’objets de culte et de pacotilles : bracelets images pieuses plastifiées, toute une activité se déploie pendant les heures d’animation et de prières, puis retombe dès la fermeture des portes.
+
+Nous sommes toujours requis pour des selfies que les jeunes prennent en compagnie de ces étrangers qu’ils ont rencontrés là-bas, pendant leur pèlerinage. Et quand nous disons d’où nous venons, il n’est pas rare qu’ils connaissent la Belgique, même si, j’en suis sûr, peu seraient capables de la situer sur la carte.

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "il est arrivé"
+date: "2014-02-28"
+type: post
+published: true
+status: publish
+---
+
+Ce midi le livreur de DPD sonne à notre porte, à Revleumont. Nous l’attendons, il est déjà passé en début de semaine pendant notre absence, il a donc du repartir nous attendre au dépot Il est donc arrivé, bravant les distances, les dangers, les voleurs, les douaniers, les doutes. Il est arrivé dans un emballage imperméable, doublé intérieurement d’une couche de papier kraft pour la douceur du transport. Il a été jeté de haut, de loin, de bas en haut. Il a résisté vaillamment à tous les chocs. Il a gardé ses belles couleurs, puisqu’il n’a pas souffert du soleil, ni de la pluie, - heureusement. Il se laisse déballer, dorloter, étendre, admirer, contempler, reconnaitre. nous l’étendons au milieu de la pièce devant le feu. Pratique pour le mesurer exactement : 2.10 m / 3.50 m [![OLYMPUS DIGITAL CAMERA]({{ site.url }}{{ site.baseurl }}/images/2014/02/P2282659-225x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2014/02/P2282659.jpg) Un doute énorme : c’est bien celui là qu’on nous a vendu ? Mais qui donc finalement, ce il ? Hé bien notre TAPIS, voyons, celui que nous avons acheté à Tafraoute il y a un mois, et que Said nous a promis d’expédier chez nous pour notre retour. Nous l’installons au salon, sous la table d’opium et la première photo part pour Tafraoute. [![OLYMPUS DIGITAL CAMERA]({{ site.url }}{{ site.baseurl }}/images/2014/02/P2282663-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2014/02/P2282663.jpg) C’était promis ! kilim berbère ou hamdira, notre tapis est en laine tissée et brodé les motifs traditionnels berberes sont le puits (ou oeil) qui conjure le mauvais sort, la croix du sud qui donne le direction et les différents chemins: la caravane, la jeune fille, la femme mariée, la femme divorcée... il s'agit d'un tapis de bédouin, pas d'un tapis aux trois tissages comme on trouve dans les villes chez les sédentaires. notre tapis a voyagé a dos de chameau avant de trouver son acquéreur qui l'a ramené du désert vers la 'civilisation' pour que nous puissions l'admirer, l'aimer et l'acheter.

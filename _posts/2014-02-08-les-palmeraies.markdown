@@ -1,0 +1,16 @@
+---
+layout: post
+title: "les palmeraies"
+date: "2014-02-08"
+type: post
+published: true
+status: publish
+---
+
+En tout premier lieu, je publie deux cartes piquées sur Google (si les propriétaires se sentent lésés, qu’ils m’en fassent part ) Ceci dans le seul but de faciliter à ( ceux de mes ) mon lecteur qui me suit sur la carte d’Afrique le repérage de nos étapes.
+
+[![carte-routiere-sud-maroc]({{ site.url }}{{ site.baseurl }}/images/2014/02/carte-routiere-sud-maroc.jpg)]({{ site.url }}{{ site.baseurl }}/images/2014/02/carte-routiere-sud-maroc.jpg)
+
+[![maroc 2013]({{ site.url }}{{ site.baseurl }}/images/2014/02/maroc-2013.gif)]({{ site.url }}{{ site.baseurl }}/images/2014/02/maroc-2013.gif)
+
+Actuellement nous en sommes à 10, j’ai skipé Mirleft, Tiznit et Goulemine. La prochaine au programme est indiqué en rouge sur la deuxième carte, c’est pas très loin, mais comme on veut voir dans la journée le marché de dromadaires et un peu de la vallée du Dadès, ce sera suffisant comme déplacement. Aujourd’hui nous étions à pied. Nous avons parcouru la palmeraie de la Todgha, qui est à ce qu’on en dit une des plus riche »s du Maroc. Elle est en tout cas très bien tenue quand on la compare au Tafilalt ! [![OLYMPUS DIGITAL CAMERA]({{ site.url }}{{ site.baseurl }}/images/2014/02/P2082399.jpg)]({{ site.url }}{{ site.baseurl }}/images/2014/02/P2082399.jpg) Il y a en principe quatre grandes zones d’Oasis avec palmeraie au Maroc Foum Zguid (la palmeraie commence près de Ouarzazate pour se terminer dans le désert) Zagora et la vallée du Draa Le Tafilalt, depuis Risani/Erfoud jusqu’à Er-rachidia et enfin la vallée du Todgha. J’aurais envie d’en rajouter quelques unes, plus petites ou moins bien tenues comme Tata, les gorges d’Ait Mansour à Tafraoutde, quelques exploitations agricole qui s’établissent dans le désert autour des points d’eau, avant même que les palmiers n’aient été plantés, et des milliers de petits points dans le désert, chacun étant pour quelques familles un signe d’espoir tant que l’eau arrive en assez grande quantité pour permettre les cultures [![OLYMPUS DIGITAL CAMERA]({{ site.url }}{{ site.baseurl }}/images/2014/02/P2082401.jpg)]({{ site.url }}{{ site.baseurl }}/images/2014/02/P2082401.jpg) Ici à Tinghirt, cette palmeraie est un capital de grande valeur. Un très haut niveau de production qui maintient encore des gens au travail de la terre exclusivement accompli à la main, augmenté par les deux récoltes annuelles, puisque les cultures de printemps sont suivies des cultures d’automne, et une alimentation en eau ininterrompûe, puisque la source qui arrose la vallée coule en été, contrairement aux oueds. Et pas besoin de pomper. La saison sèche avec ses températures élevées, interrompt la production de la plus part des fruits et légumes. Seuls persistent à végéter les palmiers et à leur ombre les oliviers et figuiers. [![OLYMPUS DIGITAL CAMERA]({{ site.url }}{{ site.baseurl }}/images/2014/02/P2082407.jpg)]({{ site.url }}{{ site.baseurl }}/images/2014/02/P2082407.jpg) Mais bien sur ce n’est pas le tout de produire, il faut vendre, et la commercialisation de petits lots de culture ne permet pas d’exercer quelque pression sur les prix. Les souks hebdomadaires ou bihebdomadaires permettent tout juste d’écouler une production limitée.

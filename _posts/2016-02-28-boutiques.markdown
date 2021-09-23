@@ -1,0 +1,10 @@
+---
+layout: post
+title: "boutiques"
+date: "2016-02-28"
+type: post
+published: true
+status: publish
+---
+
+Pour quitter Allepey, nous vérifions si nous avons reçu des places depuis notre réservation d’hier en WL (waiting list). Il y a eu des desistements et nous recevons trois places dans ma même voiture, mais pas cote à cote. On verra Nous connaissons l’emplacement de notre voiture, déjà ça, une annonce en boucle nous le répète toutes des dix minutes. Et nous en profitons deux fois de plus puisque le train annoncé pour 8h10 arrive vers 8 :35. Ponctualité tout indienne. Montés dans la voiture, dans la cohue, nous nous asseyons où nous pouvons, nous laissons ceux qui s’y connaissent nous dire quelles sont nos places quand ils viennent récupérer la leur ( ! ). Cette fois ci nous voyageons en « chair » (places assises). Le confort est-il supérieur à celui des couchettes ? je n’oserai pas m’avancer. Il est certain que nous perdons en liberté de mouvements, on se croirait dans un tout vieux boeing. Le voyage ne dure qu’une heure, et aussitôt débarqués du train nous entamons une nouvelle file, pour « reserver » un « taxi » : si nous passons par le guichet officiel, nous bénéficions d’un tuktuk dans l’ordre et au prix imposé. Libre à nous de chercher ailleurs dans la rue, mais alors, il faudra discuter le tarif et expliquer que nous voulons seulement aller à notre hotel sans admirer les diverses curiosités de la ville du nord au sud… Coup de chance, il est seulement 10:00 du matin et l’hotel nous accueille dans nos chambres réservées. Une douche s’impose. Et elle est la bienvenue, il fait déjà assez chaud pour que ma chemise soit à tordre ! Nous passons à Kochi par le ferry, et nous commençons la chasse aux achats. Mais pas moyen de dénicher un tailleur, il faut se contenter de prêt à porter. Le marchandage n’est pas mon fort, mais comme ce n’est pas moi qui achète, ce n’est pas moi qui négocie. Je me contente de jouer banquier. Et nous ne ferons pas sauter la banque aujourd’hui.

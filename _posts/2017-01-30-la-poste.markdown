@@ -1,0 +1,20 @@
+---
+layout: post
+title: "La poste"
+date: "2017-01-30"
+type: post
+published: true
+status: publish
+---
+
+Aujourd’hui, relâche avant le sigth seing tour de mardi, nous avons tout notre temps. Malgré tout la journée commence tôt. Dès 6 heures, la vie reprend dans les rues. Les cloches ont déjà sonné deux fois, les camions viennent de livrer l’eau aux hôtels, les ouvriers prennent leur café debout au coffee shoppe en face, les motos passent, les voitures s’arrêtent, les camionnettes klaxonnent, tout est normal.
+
+9 heures, la journée est bien entamée. Les enfants vont à l’école dans leurs uniformes pimpants, nous nous mettons en route pour le bureau de poste. Il n’est pas spécialement loin, mais il faut longer une rue importante à haute densité de circulation. Nous croyons ne pas y arriver, même si tous les gens interrogés en route nous confirment que c’est là, au prochain tournant.
+
+C’est vrai, la poste est là. Caché derrière les échoppes à front de rue, des bâtiments antiques abritent un bureau très actif sous un panneau indiquant en blanc sur rouge India Post. Des gens nombreux, assis à des tables en deux rangées, avec des casiers aux murs, trient des paquets de lettres, les rangent, les déplacent. Ce n’est pas ici que nous aurons un timbre pour le Japon ! en effet, c’est le centre de tri. Le bâtiment de la poste est plus loin. En continuant notre rue, nous apercevons une immense file le long du trottoir, pour une fois véritable file indienne, des gens par dizaines piétinent devant l’entrée d’un bâtiment Portant la mention « Western Union ». C’est bien la poste, mais surtout pour les transferts d’argent. Pour les timbres, on passe sur le côté. Une table, pas un vrai guichet, un seul homme assis derrière occupé à collationner un registre. Il prend notre lettre, va la peser et consulter un tarif.  24 roupies.
+
+Il faut lécher le dos des timbres pour les coller sur la carte, et ressortir pour jeter celle-ci dans la boite rouge attendant stoïquement devant l’entrée, que quelqu’un veuille bien s’intéresser à elle. La poste aux lettres a peut-être un tout petit avenir, pas bien grand. Les paquets vont par DHL, l’argent par Western Union, les courriels par internet, les rares lettres papier exige des équipes nombreuses pour trier, acheminer, distribuer une relique des temps anciens, avant l’électronique et la mondialisation.
+
+Notre marche à pied jusqu’ici nous a convaincus : pour aller plus loin, nous prendrons un rickshaw.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2017/01/DSC00633-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2017/01/DSC00633.jpg)

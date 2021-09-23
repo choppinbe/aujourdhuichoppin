@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Dans le soleil et dans le vent..."
+date: "2011-11-20"
+---
+
+Nous en étions restés au camping aca de PM. Nous avons encore passé une bonne nuit à l'hostal Anclas del Sur, au calme, avant de faire un jour de "plage" tout ce qu'il y a de plus touristique, parce que le tour à vélo à punta lobos, faut oublier. Une route empierrée parcourue par des dizaines de véhicules n'est pas très accueillante pour les cyclistes! Donc nous avons visité la base navale -du moins l'entrée- et nous avons terminé notre tour en douceur, juste le temps de récupérer notre equipaje et d'aller attendre notre don otto a la gare en compagnie des supporters de l'équipe de foot voisine. Trajet sans histoire, 12 heures quand même et le vent et la poussière nous attendent à Bariloche. Heureusement que nous dénichons un hébergement sympa à l'hostal freedom, et que nous sommes patients, parce que c'est dimanche ici. Pour établir notre futur itinéraire, il faudra attendre lundi 10h. Donc nous nous aérons: il faut dire qu'avec le vent incessant -et FROID-qui vient des Andes par le lac, les rues sont balayées. Insuffisamment sans doute: une fine poussière grise continue à s'infiltrer partout. Pas une seule terrasse de bistrot et dans le bus de ville, les sièges disparaissent dans la poussière. L'éruption du volcan laisse des traces. Un plat du jour et une salade à "las brasas", tout est bien. L'essentiel aujourd'hui c'est de profiter des recoins abrités.

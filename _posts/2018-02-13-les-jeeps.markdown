@@ -1,0 +1,26 @@
+---
+layout: post
+title: "LES JEEPS"
+date: "2018-02-13"
+type: post
+published: true
+status: publish
+---
+
+Cette région de la Colombie, comme d’autres, est quasiment inaccessible aux véhicules ordinaires, en dehors des autopistas et des villes. Seul un 4x4 -lisez cuatro por cuatro- peut monter les pentes et passer les ruisseaux.
+
+Dès la fin de la deuxième guerre mondiale, les surplus des armées américaines ont débarqué en Amérique du sud. Vite adoptés, les jeeps ont fait leur place dans l’équipement moyen des villageois. Copiées, améliorées, concurrencées, bichonnées, réparées, elles constituent un étalon de mesure, au point que le chargement complet d’une jeep en sacs de café, de citrons ou autre produit, se nomme un Yipao, et constitue l’étalon de chargement de marchandises.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180208_114557-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180208_114557.jpg)
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180209_113237-225x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180209_113237.jpg)
+
+Certaines mécaniques se donnent un faux air de vieux : en dehors de la carrosserie, tout a été renouvelé depuis 40 ans : freins, moteur, sièges, en dehors sans doute du chassis qui sera la dernière pièce à être mise au rebut. D’autres n’ont pas cette chance, et les chaos incessant des pistes de montagne leur mènent la vie dure, mais leurs propriétaires ne les abandonnent jamais, il y a toujours un mécano compétent et surtout doué pour remédier aux ravages de l’âge.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180209_090725-225x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180209_090725.jpg)
+
+En dehors de ces monuments, on rencontre aussi pas mal de Renault : R4, R9, R12, qui survivent par la puissance inventive des professionnels. Impossible de savoir si les nouvelles générations de la marque – logan, sandero, duster – auront la même endurance alors qu’elles bénéficient du même engouement.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180205_123618-225x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180205_123618.jpg)
+
+Encore une réflexion sur les autopistas – ce ne sont pas des autoroutes, même si elles sont quadrillées de postes de péage, beaucoup plus des high way comme aux USA. Signalisation à l’américaine avec des conventions qui nous sont parfois inconnues, la plus claire étant le signal stop, ici « PARE ». On aborde la route uniquement en tournant à droite, un « retorno » à quelques centaines de mètres permet de prendre la direction opposée, comme si on avait tourné à gauche. Solution économique qui évite beaucoup d’ouvrages d’art, mais limite pratiquement la vitesse, d’autant plus qu’un véhicule encombrant manquant de reprises se prélasse généralement sur la bande de gauche, pour éviter d’avoir à déboiter pour dépasser plus poussif que lui. On se fraie un chemin en voiture conventionnelle, en slalomant entre les obstacles.

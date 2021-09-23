@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Pongal"
+date: "2017-01-16"
+type: post
+published: true
+status: publish
+---
+
+Contrairement au Kerala où la religion hindoue est assez discrète (du moins quand on se tient hors de portée des temples et qu’on ne croise pas un cortège festif), le Tamil Nadu, pour ce que j’en vois, est plus marqué de tradition.
+
+Le chauffeur de taxi qui nous a conduits depuis l’aéroport disait moins de 10 % de chrétiens, un quart peut-être de musulmans, et plus de 70 % hindous, avec des variations sur l’intensité de la pratique et dans la répartition géographique.
+
+Les chrétiens y sont très peu présents (peut-être plus à Pondichéry, influence française oblige, on verra dans quelques jours ?), les musulmans plutôt discrets. Pas de sonnerie de cloches ni d’appel à la prière depuis les minarets, comme à Trivandrum. Ce qui laisse une grande place aux manifestations votives de la religion dominante, même en dehors des temples. Le bouddhisme semble invisible s'il existe ici.
+
+Je n’avais pas remarqué l’an dernier la tradition du perçage de l’oreille, rite Hindou dont la pratique semble générale ici chez les garçons. Moins que dans un but esthétique, c’est le sens spirituel (ou religieux ? ou encore  physiologique, pourrait-on dire) qui domine : la pression exercée de façon continue sur le lobe de l’oreille augmenterait les capacités de mémorisation des enfants, donc très important pour les études, et surtout pour les garçons, bien sûr.
+
+Le déroulement d’une fête religieuse est bien sur l’occasion de manifestations plus voyantes. Les traditionalistes s’affichent plus, dans leurs vêtements de fête et leurs manifestations de piété: prières, bains, costumes, bonnes actions. Mais on se rend vite compte que l’ensemble de la population (et je n’oserais pas dire que les adeptes d’autres religions fassent totalement exception) pratiquent certains de ces rites.
+
+Pongal est un peu notre nouvel an. Les gens se saluent en se souhaitant (et surtout en nous souhaitant à nous aussi) « Happy Pongal ». C’est l’occasion d’offrir des cadeaux aux enfants, les familles se réunissent puisque que l’activité économique est suspendue pour 4 jours, les gens voyagent, les bus sont bourrés à craquer, les belles voitures neuves sortent et encombrent les rues encore plus que d’habitude, si c’est possible. Les petits marchands débitent des tonnes de nourriture, fritures, riz, fruits de toutes sortes débités en portions. On voit se multiplier les vendeurs de colliers, de mirlitons, de tambours, toutes ces choses inutiles qu’on offre quand on ne sait pas ce qui fera vraiment plaisir.
+
+Les bains publics ne désemplissent pas même après la tombée de la nuit. Dans cette atmosphère habituellement si neutre au niveau des odeurs, les after shave se remarquent plus. Chacun sort les vêtements les plus chics, les fillettes sont habillées de robes rutilantes, soie (artificielle), paillettes, couleurs vives.
+
+Pour quelques heures, les soucis quotidiens et les difficultés de la vue sont effacés, chants, danses, et les fabuleuses décorations à la craie devant les portes, les kolam, aujourd’hui en l’honneur de la vache.[![]({{ site.url }}{{ site.baseurl }}/images/2017/01/DSC00331-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2017/01/DSC00331.jpg)

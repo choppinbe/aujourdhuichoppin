@@ -1,0 +1,34 @@
+---
+layout: post
+title: "BOTERO"
+date: "2018-01-17"
+type: post
+published: true
+status: publish
+---
+
+ Peu d’artistes ont de leur vivant une réputation aussi répandue que celle de ce peintre, sculpteur, écrivain, professeur d’art, qui a institué un musée gratuit à Bogota pour rassembler les œuvres dont il a fait don à la République.
+
+Né et éduqué à Medellin, déjà reconnu à l'age de seize ans dans son collège, dont il a été expulsé l'année suivante pour avoir produit une série de nus à la façon de Picasso de l'époque ( années '45-'50)
+
+Un magnifique palais dans les bâtiments de la bibliothèque nationale, à trois cuadras de la place Bolivar abrite ces oeuvres.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/01/IMG_20180114_100610-225x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/01/IMG_20180114_100610.jpg)
+
+Outre des peintures, dessins, marbres et bronzes de sa facture, on trouve aussi des œuvres qui lui ont appartenues et figurent concrètement son bagage artistique : peintres européens de la génération qui l’a précédé, contemporains dont la facture diffère de la sienne, mais porte la même marque d’originalité.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/01/IMG_20180114_100137-225x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/01/IMG_20180114_100137.jpg)
+
+ 
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/01/IMG_20180114_100153-225x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/01/IMG_20180114_100153.jpg)
+
+Son inspiration à la fois précolombienne et européenne donne à ses œuvres un « volume » caractéristique, que ce soit en peinture ou en sculpture, à côté de lui, Maillol se confondrait avec Giacometti 😉
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/01/IMG_20180114_102859-225x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/01/IMG_20180114_102859.jpg)
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/01/IMG_20180114_102922-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/01/IMG_20180114_102922.jpg)
+
+Le plus amusant est que cette célébrité lui a suscité des adeptes et imitateurs jusqu'au plus profond de la Guajira: témoin cette peinture murale dans un restau de Rio Hacha.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/01/IMG_20180117_124020-225x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/01/IMG_20180117_124020.jpg)

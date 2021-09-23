@@ -1,0 +1,26 @@
+---
+layout: post
+title: "POPAYAN"
+date: "2018-02-17"
+type: post
+published: true
+status: publish
+---
+
+Petite ville du sud de la Colombie (280000 habitants), Popayan est aussi appelée la ville blanche. Effectivement, les maisons de la vielle ville, de style colonial, présentent à rue une façade presqu’aveugle, alors que l’intérieur, organisé autour d’un patio fleuri et ombragé est extrêmement accueillant.
+
+L’ensemble de ces murs est blanchi, seuls les encadrements de portes et de fenêtres soulignent la blancheur des murs par leur teintes plus sombre ; pierre de lave sculptée ou briques appareillées.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180214_150346-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180214_150346.jpg)
+
+L’autre réputation de la ville est celle d’une ville universitaire, et celle là aussi est bien méritée. Vendredi dernier, c’était la rentrée et la veille toutes les rues grouillaient de jeunes en train de courir d’une fac à l’autre pour terminer les inscriptions. Plusieurs facs sont logées dans de magnifiques bâtiments, d’anciens couvents souvent, ce qui ne nuit pas à la réputation de la ville.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180214_145325-225x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180214_145325.jpg)
+
+La troisième caractéristique de Popayan est d’accueillir une semaine sainte très cérémonieuse qui attirent beaucoup de monde à ce moment-là. Mais c’est pour dans 40 jours.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180214_145544-225x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180214_145544.jpg)
+
+Avant de quitter la ville nous sommes passés au musée d’histoire naturelle. Il conserve des collections impressionnantes de tout ce que la région recèle en biodiversité, et c’est pas mal, mais on y trouve aussi une section d’archéologie bien documentée sur les découvertes faites dans la région. La personne qui nous a accueillis à l’entrée nous a d’ailleurs, avec beaucoup de verve et d’enthousiasme, fait l’article à ce sujet avec fierté, on aurait dit qu’elle souhaitait en 10 minutes, nous partager tout ce que la recherche en Colombie a mis au jour de l’histoire passée, et des témoignages qui en restent, particulièrement les statues dont une trône dans l’entrée du musée.
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180214_155509-300x225.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180214_155509.jpg)       [![]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180214_161848-225x300.jpg)]({{ site.url }}{{ site.baseurl }}/images/2018/02/IMG_20180214_161848.jpg)

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "N W"
+date: "2012-07-20"
+type: post
+published: true
+status: publish
+---
+
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/07/page1output.jpg "page1output")]({{ site.url }}{{ site.baseurl }}/images/2012/07/page1output.jpg)

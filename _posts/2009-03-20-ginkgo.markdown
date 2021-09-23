@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Ginkgo"
+date: "2009-03-20"
+type: post
+published: true
+status: publish
+---
+
+[]({{ site.url }}{{ site.baseurl }}/images/2009/03/img_0008.JPG "img_0008.JPG")[]({{ site.url }}{{ site.baseurl }}/images/2009/03/img_0005.JPG "reprise du ginkgo")En revenant de Kuboyama, j’ai ramené dans ma valise quelques morceaux de bois de Ginkgo sélectionnés dans les branches que j’ai taillées dans l’arbre du jardin d’Antoine et Ryoko.
+
+Je me demandais si on pourrait en faire des boutures. Après tout, un morceau de bois aoûté, ça arrive souvent à reprendre. Mais bien sur, on fait rarement subir à une bouture le voyage en soute de Tokyo à Bruxelles. Revenu à la maison, j’ai donc déballé mon paquet de bouts de bois et je les ai mis dans un verre d’eau, en attendant de voir si des racines se formeraient. Au bout de trois semaines, rien. Je me décide alors à mettre en terre mes bouts de bois qui avaient déjà eu bien le temps de sécher, avec un peu de poudre de perlimpinpin (on appelle ça une hormone de croissance). Au bout d’un mois aucun signe de reprise.
+
+Bon, tant pis, c’est que la bouture de ginkgo ne marche pas. C’est sans doute normal ; quand je me rends compte combien ça peut être difficile de [produire des plans](http://www.xs4all.nl/~kwanten/franindex.htm) à partir des fruits, la reproduction végétative ne doit pas être tellement plus facile. Le pot passe donc la fin de l’hiver dans un coin de la terrasse, je n’ai pas le temps ni l’intérêt de le jeter aussitôt à la poubelle. Et c’est là que, ho surprise, avec le retour de beaux jours, nous remarquons sur ce branches « mortes » des gonflements singuliers. On dirait des les bourgeons ont pris de l’ampleur et du volume. Et même un peu de couleur.Dis donc, ça a l’air de marcher !Aussitôt on les rentre dans la véranda et avec le temps magnifique dont nous bénéficions ces jours ci, voila le résultat :[]({{ site.url }}{{ site.baseurl }}/images/2009/03/img_0008.JPG "img_0008.JPG")[![reprise du ginkgo]({{ site.url }}{{ site.baseurl }}/images/2009/03/img_0005.thumbnail.JPG)]({{ site.url }}{{ site.baseurl }}/images/2009/03/img_0005.JPG "reprise du ginkgo")  []({{ site.url }}{{ site.baseurl }}/images/2009/03/img_0008.JPG "img_0008.JPG") L’essentiel la dedans ? il ne faut jamais désespérer, la vie nous surprendra encore. Par quels détours elle ne passe pas !Reste à savoir si le jeune plan reprendra assez de vigueur pour nous donner un arbre. Mais après tout, il y a bien plusieurs exemplaire de ce phénomène à Bruxelles, où l’arbre aux quarante écus donne l’impression de s’être assez bien assez bien acclimaté. Je vous tiendrai au courant de la suite. J’espère seulement ne pas avoir de fruits (nauséabonds).

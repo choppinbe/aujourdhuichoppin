@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Antipodes"
+date: "2011-12-04"
+type: post
+published: true
+status: publish
+---
+
+Hier en passant de el Chalten à el Calafate, nous sommes passés à la estancia la Leona, où nous avons trouvé un panneau indicateur nous signalant que nous étions à 21.300 km de Tokyo. Donc aux antipodes, à peu de choses près. Je ne me rendais pas compte de la dimension de l'océan Pacifique! El Calafate, ville abominablement touristique. Après une première approche séduisante (enfin des rues qui ressemblent à ce qu'on connait, des magasins chic...) nous nous lassons très vite de l'aspect apprêté et superficiel des rues du centre. Il faudra aller plus loin, près des barrios, pour sentir la véritable atmosphère d'une ville de 10.000 habitants. La plus grosse ville rencontrée depuis le début de la ruta cuarenta. L'aspect contraint est du au fait que tout est prévu pour faciliter le tourisme. Quand nous avons demandé comment aller à la cueva galliche, on nous a regardés avec des gros yeux: vous n'allez quand même pas faire les 10 km à pied? Caminando? Pourtant le "sendero" existant le long de la rive du lago Argentina ne doit pas être tres difficile. Je m'accorde une bonne paire d'heures, pas beaucoup plus pour y arriver. Le beau temps que nous avions à el Chalten nous a suivi: plus de deux jours sans vent, quelle aubaine. Nous déjeunons dans le jardin de l'hostal, sous le soleil austral, nettement plus éclatant et agressif que celui dont nous bénéficions en juin sous nos latitudes habituelles. On aimerait lézarder sur le sable, mais même avec une protection 5/7,il vaut mieux prendre soin de sa peau, les brûlures arrivent vite. "Le mieux est l'ennemi du bien": en facilitant la vie des touristes, la localité a perdu je pense une grande partie de son charme pour tous la baroudeurs qui tentent l'aventure de la "fin del mundo". La majorité de ceux que nous rencontrons sont engagés dans des périples de plusieurs mois, la Terre de feu n'est qu'une étape sur un parcours beaucoup s plus long.
