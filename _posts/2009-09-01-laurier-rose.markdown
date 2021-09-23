@@ -7,7 +7,7 @@ published: true
 status: publish
 ---
 
-[]({{ site.url }}{{ site.baseurl }}/images/2009/09/img_0625.JPG "img_0625.JPG")Il y a quelques mois, j'ai parlé de ce [laurier rose]({% link _posts/2009-09-01-laurier-rose.markdown %}) et en même temps je suis allé en Crète, dont j'ai ramené une bouture de laurier rose "blanc"
+[]({{ site.url }}{{ site.baseurl }}/images/2009/09/img_0625.JPG "img_0625.JPG")Il y a quelques mois, j'ai parlé de ce [laurier rose]({% link _posts/2007-09-06-22.markdown %}) et en même temps je suis allé en Crète, dont j'ai ramené une bouture de laurier rose "blanc"
 
 une variété locale, à fleurs simples, qui marquait les limites des champs au bord de la mer.
 
